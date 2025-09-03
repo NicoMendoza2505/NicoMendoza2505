@@ -22,8 +22,11 @@ Soy un desarrollador apasionado por la tecnología, siempre en busca de nuevos d
 
 ## 🛠️ Tecnologías y Herramientas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![React](https://img.shields.io/badge/React-17.0-blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![VSCode]([https://img.shields.io/badge/React-17.0-blue](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white))
 ![Node.js](https://img.shields.io/badge/Node.js-14.x-green)
 ![Express](https://img.shields.io/badge/Express-4.x-lightgrey)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.x-lightgreen)
