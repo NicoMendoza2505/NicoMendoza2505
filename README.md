@@ -33,17 +33,11 @@ Soy un **Ingeniero de Sistemas en formación** con una profunda pasión por las 
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NicoMendoza2505&show_icons=true&theme=radical)
 
-## 📬 Contacto
+## 📬 Contactame
 
-- **Correo electrónico:** [nico.mendoza@example.com](mailto:nico.mendoza@example.com)
+- **Correo electrónico:** [nicolayprietom10@gmail.com](mailto:nicolayprietom10@gmail.com)
 - **LinkedIn:** [linkedin.com/in/nico-mendoza](https://www.linkedin.com/in/nico-mendoza)
-- **Twitter:** [@nico_mendoza](https://twitter.com/nico_mendoza)
+- **Twitter:** [@nico_mendoza2505](https://twitter.com/nico_mendoza2505)
+- **Instagram:** [@layyyyypm](https://twitter.com/layyyyypm)
 
-## 📝 Licencia
 
-Este perfil está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](https://github.com/NicoMendoza2505/NicoMendoza2505/blob/main/LICENSE).
-
-## 🔗 Enlaces útiles
-
-- [Mi sitio web personal](https://www.nicomendoza.com)
-- [Blog sobre desarrollo y tecnología](https://blog.nicomendoza.com)
