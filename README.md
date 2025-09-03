@@ -6,7 +6,7 @@ Soy un desarrollador apasionado por la tecnología, siempre en busca de nuevos d
 
 ## 📚 Sobre mí
 
-- **Nombre:** Nico Mendoza
+- **Nombre:** Andrew Nicolay Prieto Mendoza
 - **Ubicación:** Bogotá, Colombia
 - **Profesión:** Desarrollador Full Stack
 - **Intereses:** Inteligencia Artificial, Desarrollo Web, Open Source
@@ -27,9 +27,8 @@ Soy un desarrollador apasionado por la tecnología, siempre en busca de nuevos d
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-14.x-green)
-![Express](https://img.shields.io/badge/Express-4.x-lightgrey)
-![MongoDB](https://img.shields.io/badge/MongoDB-4.x-lightgreen)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ## 📊 Estadísticas de GitHub
 
