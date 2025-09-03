@@ -2,23 +2,22 @@
 
 ![Portada](https://github.com/NicoMendoza2505/NicoMendoza2505/blob/main/imagenes/portada.jpg)
 
-Soy un desarrollador apasionado por la tecnología, siempre en busca de nuevos desafíos y oportunidades para aprender. Me especializo en tecnologías como JavaScript, React y Node.js, y disfruto creando soluciones innovadoras que impacten positivamente en la vida de las personas.
+Soy un **Ingeniero de Sistemas en formación** con una profunda pasión por las **redes de comunicación** y las **bases de datos**. Mi objetivo es diseñar y administrar infraestructuras tecnológicas eficientes y seguras que impulsen la transformación digital y comunicacion en las organizaciones.
 
-## 📚 Sobre mí
+## Sobre mí
 
 - **Nombre:** Andrew Nicolay Prieto Mendoza
 - **Ubicación:** Bogotá, Colombia
-- **Profesión:** Desarrollador Full Stack
-- **Intereses:** Inteligencia Artificial, Desarrollo Web, Open Source
-- **Objetivo:** Crear aplicaciones que mejoren la experiencia del usuario y contribuyan al bienestar social.
+- **Profesión:** Ingeniero de Sistemas y Computación (en formación)
+- **Intereses:** Redes de comunicación, administración de bases de datos, seguridad informática
 
-## 📌 Proyectos Destacados
+## Proyectos
 
 | Proyecto             | Descripción breve                                      | Enlace                                     |
 |----------------------|--------------------------------------------------------|--------------------------------------------|
-| **Proyecto A**       | Aplicación web para gestión de tareas.                 | [Repositorio](https://github.com/NicoMendoza2505/proyecto-a) |
-| **Proyecto B**       | API RESTful para gestión de usuarios.                  | [Repositorio](https://github.com/NicoMendoza2505/proyecto-b) |
-| **Proyecto C**       | Aplicación móvil para seguimiento de hábitos.          | [Repositorio](https://github.com/NicoMendoza2505/proyecto-c) |
+| **Sistema CRUD para inscripción de materias con SQLite**       | Sistema CRUD para gestionar la inscripción de materias de estudiantes, conectado a una base de datos SQLite. Permite crear, leer, actualizar y eliminar inscripciones de forma sencilla y eficiente.              | [Repositorio](https://github.com/gecrodriguezpe/ProyectoFinalPOO) |
+| **Estructura de datos multiverso**       | Proyecto de estructuras de datos que combina listas circulares y árboles AVL para crear una estructura tipo “multiverso”. Las listas circulares contienen raíces de árboles AVL, cuyas ramas apuntan nuevamente a las raíces, formando una estructura interconectada y eficiente.                  | [Repositorio](https://github.com/Anthonyrs4/Proyecto-DS) |
+| **Proyecto planeacion de rutas**       | Sistema para gestionar rutas entre ciudades que permite agregar ciudades y calcular la ruta más corta pasando por ciudades seleccionadas. Ideal para optimizar viajes y planificar itinerarios.          | [Repositorio](https://github.com/THOMASunal/Multiverso) |
 
 ## 🛠️ Tecnologías y Herramientas
 
