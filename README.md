@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Nico Mendoza
 
-![Portada](https://github.com/NicoMendoza2505/NicoMendoza2505/blob/main/imagenes/portada.jpg)
+![Portada](assets/banner.png)
 
 Soy un **Ingeniero de Sistemas en formación** con una profunda pasión por las **redes de comunicación** y las **bases de datos**. Mi objetivo es diseñar y administrar infraestructuras tecnológicas eficientes y seguras que impulsen la transformación digital y comunicacion en las organizaciones.
 
