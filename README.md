@@ -36,7 +36,7 @@ Soy un **Ingeniero de Sistemas en formación** con una profunda pasión por las 
 ## 📬 Contactame
 
 - **Correo electrónico:** [nicolayprietom10@gmail.com](mailto:nicolayprietom10@gmail.com)
-- **LinkedIn:** [linkedin.com/in/nico-mendoza](https://www.linkedin.com/in/nico-mendoza)
+- **LinkedIn:** [https://www.linkedin.com/in/andrew-nicolay-prieto-mendoza-0b5208381/](https://www.linkedin.com/in/andrew-nicolay-prieto-mendoza-0b5208381/)
 - **Twitter:** [@NicoMendoza2505](https://twitter.com/NicoMendoza2505)
 - **Instagram:** [@layyyyypm](https://instagram.com/layyyyypm)
 
