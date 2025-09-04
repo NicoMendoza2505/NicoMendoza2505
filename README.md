@@ -35,10 +35,10 @@ Soy un **Ingeniero de Sistemas en formación** con una profunda pasión por las 
 
 ## 📬 Contáctame
 
-[![Email](https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Gmail.png)](mailto:nicolayprietom10@gmail.com)
-[![LinkedIn](https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/LinkedIN.png)](https://www.linkedin.com/in/andrew-nicolay-prieto-mendoza-0b5208381/)
-[![Twitter](https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Twitter.png)](https://twitter.com/NicoMendoza2505)
-[![Instagram](https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Instagram.png)](https://instagram.com/layyyyypm)
+[![Email](https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Gmail-Light.svg)](mailto:nicolayprietom10@gmail.com)
+[![LinkedIn](https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg)](https://www.linkedin.com/in/andrew-nicolay-prieto-mendoza-0b5208381/)
+[![Twitter](https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Twitter.svg)](https://twitter.com/NicoMendoza2505)
+[![Instagram](https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg)](https://instagram.com/layyyyypm)
 
 
 
