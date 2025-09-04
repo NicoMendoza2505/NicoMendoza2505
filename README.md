@@ -33,11 +33,12 @@ Soy un **Ingeniero de Sistemas en formación** con una profunda pasión por las 
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NicoMendoza2505&show_icons=true&theme=radical)
 
-## 📬 Contactame
+## 📬 Contáctame
 
-- **Correo electrónico:** [nicolayprietom10@gmail.com](mailto:nicolayprietom10@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/andrew-nicolay-prieto-mendoza-0b5208381/](https://www.linkedin.com/in/andrew-nicolay-prieto-mendoza-0b5208381/)
-- **Twitter:** [@NicoMendoza2505](https://twitter.com/NicoMendoza2505)
-- **Instagram:** [@layyyyypm](https://instagram.com/layyyyypm)
+[![Email]([https://img.icons8.com/color/48/000000/email.png](https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Gmail.png))](mailto:nicolayprietom10@gmail.com)
+[![LinkedIn](https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/LinkedIN.png)](https://www.linkedin.com/in/andrew-nicolay-prieto-mendoza-0b5208381/)
+[![Twitter](https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Twitter.png)](https://twitter.com/NicoMendoza2505)
+[![Instagram](https://github.com/gauravghongde/social-icons/blob/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/PNG/Color/Instagram.png)](https://instagram.com/layyyyypm)
+
 
 
